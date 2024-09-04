@@ -1,1 +1,1 @@
-I used navigaiton in kotlin jetpack compose.
+I used navigation in kotlin jetpack compose.
